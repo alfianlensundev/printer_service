@@ -1,6 +1,6 @@
 [package]
 name = "print_service"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Alfian Lensun <alfianlensundev@gmail.com>"]
 description = "A lib to access printer on windows"
@@ -18,7 +18,7 @@ categories = [
     "os::windows-apis"
 ]
 license = "MIT"
-repository = "https://github.com/alfianlensundev/tauri-plugin-printers"
+repository = "https://github.com/alfianlensundev/printer_service"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
