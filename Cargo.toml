@@ -11,8 +11,7 @@ keywords = [
     "printer",
     "print",
     "printing",
-    "json",
-    "listprinter"
+    "json"
 ]
 categories = [
     "os",
