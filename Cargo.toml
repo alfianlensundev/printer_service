@@ -7,7 +7,6 @@ description = "A lib to access printer on windows"
 homepage = "https://crates.io/crates/printer_service"
 readme = "README.md"
 keywords = [
-    "tauri",
     "printer",
     "print",
     "printing",
