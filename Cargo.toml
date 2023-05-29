@@ -1,0 +1,31 @@
+[package]
+name = "print_service"
+version = "0.1.0"
+edition = "2021"
+authors = ["Alfian Lensun <alfianlensundev@gmail.com>"]
+description = "A lib to access printer on windows"
+homepage = "https://crates.io/crates/printer_service"
+readme = "README.md"
+keywords = [
+    "tauri",
+    "printer",
+    "print",
+    "printing",
+    "json",
+    "list printer"
+]
+categories = [
+    "os",
+    "os::windows-apis"
+]
+license = "MIT"
+repository = "https://github.com/alfianlensundev/printer_service_rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+#[lib]
+#name = "printer_service"
+#path = "src/lib.rs"
+#bench = false
+
+[dependencies]
